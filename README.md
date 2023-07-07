@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Jose</h1>
-<h3 align="center">A passionate developer from Spain</h3>
+<h2 align="center">I'm learning developer from Spain</h2>
+<h3 align="center">A passionate of Ships, motors and heavy machenary</h3>
 
 - 🌱 I’m currently learning **JAVASCRIPT, HTML5 , CSS3**
 
