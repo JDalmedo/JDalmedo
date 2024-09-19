@@ -2,7 +2,7 @@
 <h2 align="center">I'm learning developer from Spain</h2>
 <h3 align="center">A passionate of Ships, motors and heavy machenary</h3>
 
-- 🌱 I’m currently learning **JAVASCRIPT, HTML5, CSS3, REACT, ESPRESS, NODE.JS**
+- 🌱 I’m currently learning **JAVASCRIPT, HTML5, CSS3, REACT, ESPRESS, NODE.JS, JAVA, SPRING, AJAX**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
